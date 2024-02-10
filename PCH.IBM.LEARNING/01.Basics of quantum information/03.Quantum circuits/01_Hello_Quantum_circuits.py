@@ -5,6 +5,11 @@ from qiskit.visualization import plot_histogram
 import os
 os.system('cls')
 
+# ==========================================================================================================
+#      https://learning.quantum.ibm.com/course/basics-of-quantum-information/quantum-circuits
+# ==========================================================================================================
+#
+
 # In the quantum circuit model, wires represent qubits and gates represent operations acting on these qubits. 
 # We'll focus for now on operations we've encountered so far, namely unitary operations and standard basis measurements. 
 # As we learn about other sorts of quantum operations and measurements, we'll enhance our model accordingly.
